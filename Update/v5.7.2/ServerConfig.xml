@@ -9,62 +9,62 @@
         <ServerConfigFile>
             <Name>\3SM_Center.deps.json</Name>
             <Size>422</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SM_Center.dll</Name>
             <Size>5120</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:28.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SM_Center.exe</Name>
             <Size>151552</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SM_Center.pdb</Name>
             <Size>11336</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:28.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SM_Center.runtimeconfig.json</Name>
             <Size>397</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Common.dll</Name>
             <Size>32768</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Common.pdb</Name>
             <Size>24064</Size>
-            <Date>2026-02-17T19:26:28.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\launcher.deps.json</Name>
             <Size>15388</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\launcher.dll</Name>
             <Size>4857344</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\launcher.exe</Name>
             <Size>522240</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\launcher.pdb</Name>
-            <Size>21552</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Size>21640</Size>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\launcher.runtimeconfig.json</Name>
             <Size>429</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\System.IO.Ports.dll</Name>
@@ -74,37 +74,37 @@
         <ServerConfigFile>
             <Name>\3SMboot\3SMboot.deps.json</Name>
             <Size>16572</Size>
-            <Date>2026-02-17T19:26:58.0000000Z</Date>
+            <Date>2026-02-18T18:21:00.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\3SMboot.dll</Name>
             <Size>1005568</Size>
-            <Date>2026-02-17T19:26:56.0000000Z</Date>
+            <Date>2026-02-18T18:20:58.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\3SMboot.exe</Name>
             <Size>522240</Size>
-            <Date>2026-02-17T19:26:58.0000000Z</Date>
+            <Date>2026-02-18T18:20:58.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\3SMboot.pdb</Name>
             <Size>31796</Size>
-            <Date>2026-02-17T19:26:56.0000000Z</Date>
+            <Date>2026-02-18T18:20:58.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\3SMboot.runtimeconfig.json</Name>
             <Size>429</Size>
-            <Date>2026-02-17T19:26:58.0000000Z</Date>
+            <Date>2026-02-18T18:21:00.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\Common.dll</Name>
             <Size>32768</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\Common.pdb</Name>
             <Size>24064</Size>
-            <Date>2026-02-17T19:26:28.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\System.IO.Ports.dll</Name>
@@ -119,37 +119,37 @@
         <ServerConfigFile>
             <Name>\3SMboot\UIControls.dll</Name>
             <Size>159232</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SMboot\UIControls.pdb</Name>
             <Size>60724</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\3SModbus.deps.json</Name>
             <Size>46176</Size>
-            <Date>2026-02-17T19:27:40.0000000Z</Date>
+            <Date>2026-02-18T18:21:42.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\3SModbus.dll</Name>
             <Size>24488448</Size>
-            <Date>2026-02-17T19:27:34.0000000Z</Date>
+            <Date>2026-02-18T18:21:38.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\3SModbus.exe</Name>
             <Size>295424</Size>
-            <Date>2026-02-17T19:27:34.0000000Z</Date>
+            <Date>2026-02-18T18:21:38.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\3SModbus.pdb</Name>
             <Size>484836</Size>
-            <Date>2026-02-17T19:27:34.0000000Z</Date>
+            <Date>2026-02-18T18:21:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\3SModbus.runtimeconfig.json</Name>
             <Size>429</Size>
-            <Date>2026-02-17T19:27:40.0000000Z</Date>
+            <Date>2026-02-18T18:21:42.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\appsettings.json</Name>
@@ -159,12 +159,12 @@
         <ServerConfigFile>
             <Name>\3SModbus\Common.dll</Name>
             <Size>32768</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\Common.pdb</Name>
             <Size>24064</Size>
-            <Date>2026-02-17T19:26:28.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\Microsoft.Extensions.Configuration.Abstractions.dll</Name>
@@ -344,12 +344,12 @@
         <ServerConfigFile>
             <Name>\3SModbus\UIControls.dll</Name>
             <Size>159232</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\UIControls.pdb</Name>
             <Size>60724</Size>
-            <Date>2026-02-17T19:26:36.0000000Z</Date>
+            <Date>2026-02-18T18:20:36.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\WinForms.DataVisualization.dll</Name>
@@ -374,27 +374,27 @@
         <ServerConfigFile>
             <Name>\AppManager\AppManager.deps.json</Name>
             <Size>15394</Size>
-            <Date>2026-02-17T19:26:54.0000000Z</Date>
+            <Date>2026-02-18T18:20:56.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\AppManager.dll</Name>
             <Size>27136</Size>
-            <Date>2026-02-17T19:26:54.0000000Z</Date>
+            <Date>2026-02-18T18:20:54.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\AppManager.exe</Name>
             <Size>151552</Size>
-            <Date>2026-02-17T19:26:54.0000000Z</Date>
+            <Date>2026-02-18T18:20:56.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\AppManager.pdb</Name>
-            <Size>18796</Size>
-            <Date>2026-02-17T19:26:54.0000000Z</Date>
+            <Size>18792</Size>
+            <Date>2026-02-18T18:20:54.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\AppManager.runtimeconfig.json</Name>
             <Size>429</Size>
-            <Date>2026-02-17T19:26:54.0000000Z</Date>
+            <Date>2026-02-18T18:20:56.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\ClientConfig.xml</Name>
@@ -404,12 +404,12 @@
         <ServerConfigFile>
             <Name>\AppManager\Common.dll</Name>
             <Size>32768</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\Common.pdb</Name>
             <Size>24064</Size>
-            <Date>2026-02-17T19:26:28.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\AppManager\System.IO.Ports.dll</Name>
@@ -419,27 +419,27 @@
         <ServerConfigFile>
             <Name>\Compatibility\3SM_Center.deps.json</Name>
             <Size>422</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\3SM_Center.dll</Name>
             <Size>5120</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:28.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\3SM_Center.exe</Name>
             <Size>151552</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\3SM_Center.pdb</Name>
             <Size>11336</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:28.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\3SM_Center.runtimeconfig.json</Name>
             <Size>397</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\bootstrapper.deps.json</Name>
@@ -449,17 +449,17 @@
         <ServerConfigFile>
             <Name>\Compatibility\bootstrapper.dll</Name>
             <Size>10752</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\bootstrapper.exe</Name>
             <Size>151552</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\bootstrapper.pdb</Name>
             <Size>12700</Size>
-            <Date>2026-02-17T19:26:26.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\bootstrapper.runtimeconfig.json</Name>
@@ -469,32 +469,32 @@
         <ServerConfigFile>
             <Name>\Compatibility\Launcher.deps.json</Name>
             <Size>416</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\Launcher.dll</Name>
             <Size>5120</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:28.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\Launcher.exe</Name>
             <Size>151552</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\Launcher.pdb</Name>
-            <Size>11336</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Size>11332</Size>
+            <Date>2026-02-18T18:20:28.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\Launcher.runtimeconfig.json</Name>
             <Size>397</Size>
-            <Date>2026-02-17T19:26:30.0000000Z</Date>
+            <Date>2026-02-18T18:20:30.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Compatibility\version.json</Name>
             <Size>28</Size>
-            <Date>2026-02-17T19:25:34.0000000Z</Date>
+            <Date>2026-02-18T18:19:32.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\Drivers\CDM21228_Setup.exe</Name>
@@ -509,17 +509,17 @@
         <ServerConfigFile>
             <Name>\3SModbus\UserGuide\AutoMode.html</Name>
             <Size>3266</Size>
-            <Date>2026-02-17T19:27:44.0000000Z</Date>
+            <Date>2026-02-18T18:21:44.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\UserGuide\GeneralInfo.html</Name>
             <Size>1825</Size>
-            <Date>2026-02-17T19:27:42.0000000Z</Date>
+            <Date>2026-02-18T18:21:44.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\3SModbus\UserGuide\ManualMode.html</Name>
             <Size>2174</Size>
-            <Date>2026-02-17T19:27:44.0000000Z</Date>
+            <Date>2026-02-18T18:21:44.0000000Z</Date>
         </ServerConfigFile>
         <ServerConfigFile>
             <Name>\runtimes\android-arm\native\libSystem.IO.Ports.Native.so</Name>
